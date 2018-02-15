@@ -64,3 +64,7 @@ footer {
 .destination:hover h2 {
 transform: rotate(0deg);
 }
+
+#spain{
+	background-color: #03a9f4;
+}
